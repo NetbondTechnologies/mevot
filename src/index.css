@@ -398,11 +398,12 @@ div.plus-info > p{
 
 .contact-us > div{
   border-radius: 24px;
-  height: 600px;
+  height: auto;
   border: 0.5px solid rgba(255, 255, 255, 0.351);
 }
 .contact-us > div.picture{
   width: 43vw;
+  height: 600px !important;
   overflow: hidden;
   animation: slide 0.4s ease-out forwards;
 }
