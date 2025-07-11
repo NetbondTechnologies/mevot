@@ -6,12 +6,6 @@ A sleek, responsive frontend website for showcasing high-performance electric sk
 
 ---
 
-## 📸 Preview
-
-> *(Optional: Add screenshots here of Homepage, Hero section, Slider, etc.)*
-
----
-
 ## 🛠 Tech Stack
 
 - ⚛️ **React** (with **TypeScript** support)
