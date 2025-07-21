@@ -101,7 +101,7 @@ Deployment is handled using the `gh-pages` package and GitHub Actions (`.github/
 
 ## 📜 License
 
-This project is owned by **Netbond Technologies** and was developed by [Your Name] as part of an internship. Distribution rights may be restricted.
+This project is owned by **Netbond Technologies** . Distribution rights may be restricted.
 
 ---
 
@@ -109,5 +109,4 @@ This project is owned by **Netbond Technologies** and was developed by [Your Nam
 
 **Md Ariyan**  
 💼 Frontend Developer Intern @ Netbond Technologies  
-🌐 [LinkedIn](https://www.linkedin.com/) *(optional)*  
-📬 ariyan@example.com *(replace with real one if needed)*
+🌐 [LinkedIn](https://www.linkedin.com/in/md-ariyan-585a31309)
